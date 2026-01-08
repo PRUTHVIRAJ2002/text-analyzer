@@ -1,0 +1,4 @@
+Cloud computing is transforming modern software systems.
+Cloud platforms enable scalability, resilience, and cost efficiency.
+Serverless computing allows developers to focus on business logic.
+Cloud services are widely used in data analytics and machine learning.

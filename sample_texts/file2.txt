@@ -1,0 +1,4 @@
+Machine learning models learn from historical data.
+Data quality is essential for accurate predictions.
+Cloud infrastructure enables large scale data processing.
+Artificial intelligence and cloud computing work together.
